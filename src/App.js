@@ -17,7 +17,7 @@ function App() {
         >
           Learn :> Learn :> Learn
         </a>
-        <button>Click Me</button>
+        <button className="App-bttn">Click Me</button>
       </header>
     </div>
   );
