@@ -17,6 +17,7 @@ function App() {
         >
           Learn :> Learn :> Learn
         </a>
+        <button>Click Me</button>
       </header>
     </div>
   );
